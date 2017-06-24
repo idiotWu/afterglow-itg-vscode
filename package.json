@@ -1,0 +1,22 @@
+{
+    "name": "afterglow-itg",
+    "displayName": "afterglow-itg",
+    "description": "Afterglow + itg color theme",
+    "version": "0.0.1",
+    "publisher": "none",
+    "engines": {
+        "vscode": "^1.13.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "afterglow-itg",
+                "uiTheme": "vs-dark",
+                "path": "./themes/afterglow-itg-color-theme.json"
+            }
+        ]
+    }
+}
