@@ -37,7 +37,7 @@
     "editor.findMatchBackground": "#6087cf",
     "editor.findMatchHighlightBackground": "#3e4451",
     "editor.selectionBackground": "#6087cf8f",
-    "editor.selectionHighlightBackground": "#3e4451",
+    "editor.selectionHighlightBackground": "#3e44518f",
     "editor.wordHighlightBackground": "#3e4451",
     "editor.wordHighlightStrongBackground": "#3e4451",
     "editor.hoverHighlightBackground": "#3e445155",
