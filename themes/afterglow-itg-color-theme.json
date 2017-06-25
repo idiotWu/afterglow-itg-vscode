@@ -33,6 +33,7 @@
     "scrollbarSlider.hoverBackground": "#5a637580",
     "scrollbarSlider.activeBackground": "#00bcd450",
     "editor.background": "#272a32",
+    "editor.foreground": "#d6d7d9",
     "editorWidget.background": "#21252b",
     "editor.findMatchBackground": "#6087cf",
     "editor.findMatchHighlightBackground": "#3e4451",
