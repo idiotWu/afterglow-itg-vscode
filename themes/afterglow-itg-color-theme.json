@@ -121,7 +121,6 @@
       "name": "Comment",
       "scope": "comment",
       "settings": {
-        "fontStyle": "italic",
         "foreground": "#5e6a75"
       }
     },
@@ -181,7 +180,6 @@
         "support.variable.dom.ts"
       ],
       "settings": {
-        "fontStyle": "italic",
         "foreground": "#74f1c6"
       }
     },
@@ -259,7 +257,6 @@
       "name": "JS: this",
       "scope": "variable.language.this.js",
       "settings": {
-        "fontStyle": "italic",
         "foreground": "#74f1c6"
       }
     },
@@ -655,7 +652,6 @@
       "name": "Markup: Italic",
       "scope": "markup.italic",
       "settings": {
-        "fontStyle": "italic",
         "foreground": "#f35656DD"
       }
     },
