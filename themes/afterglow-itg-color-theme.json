@@ -281,6 +281,13 @@
       }
     },
     {
+      "name": "Python: function calls",
+      "scope": "meta.function-call.generic.python",
+      "settings": {
+        "foreground": "#a7e450"
+      }
+    },
+    {
       "name": "Entity",
       "scope": "entity",
       "settings": {
