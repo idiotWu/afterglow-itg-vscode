@@ -59,7 +59,6 @@
     "tab.activeBackground": "#2b303b",
     "tab.inactiveBackground": "#212733",
     "tab.border": "#181a1f00",
-    "editorGroup.background": "#212733",
     "editorGroupHeader.tabsBackground": "#212733",
     "editorGroup.border": "#181a1f",
     "statusBar.foreground": "#9da5b4",
@@ -100,22 +99,6 @@
     "terminal.ansiBrightWhite": "#ffffff"
   },
   "tokenColors": [
-    {
-      "settings": {
-        "activeGuide": "#9D550FB0",
-        "background": "#272A32",
-        "bracketContentsForeground": "#F8F8F2A5",
-        "bracketContentsOptions": "underline",
-        "bracketsForeground": "#F8F8F2A5",
-        "bracketsOptions": "underline",
-        "findHighlight": "#FFE792",
-        "findHighlightForeground": "#000000",
-        "foreground": "#d6d7d9",
-        "inactiveSelectionForeground": "#222222",
-        "selectionBorder": "#1C1C1C00",
-        "tagsOptions": "stippled_underline"
-      }
-    },
     {
       "name": "JS: property",
       "scope": "meta.property.object.js",
@@ -438,10 +421,6 @@
       }
     },
     {
-      "name": "Library variable",
-      "scope": "support.other.variable"
-    },
-    {
       "name": "String constant",
       "scope": "string constant",
       "settings": {
@@ -583,7 +562,6 @@
       "name": "Invalid",
       "scope": "invalid",
       "settings": {
-        "background": "#f35656",
         "foreground": "#F8F8F0"
       }
     },
@@ -591,7 +569,6 @@
       "name": "Invalid deprecated",
       "scope": "invalid.deprecated",
       "settings": {
-        "background": "#74f1c6",
         "foreground": "#F8F8F0"
       }
     },
@@ -732,7 +709,6 @@
       "name": "Markdown: Raw Block",
       "scope": "markup.raw.block.fenced.markdown",
       "settings": {
-        "background": "#222",
         "foreground": "#FFFFFF"
       }
     },
@@ -750,7 +726,6 @@
         "variable.language.fenced.markdown"
       ],
       "settings": {
-        "background": "#222222",
         "foreground": "#93A1A1"
       }
     },
@@ -765,7 +740,6 @@
       "name": "Markup: Table",
       "scope": "markup.table",
       "settings": {
-        "background": "#FF3A281A",
         "foreground": "#B42A1D"
       }
     },
@@ -773,7 +747,6 @@
       "name": "Markdown: Separator",
       "scope": "meta.separator",
       "settings": {
-        "background": "#FFFFFF0F",
         "fontStyle": "bold",
         "foreground": "#FFFFFF33"
       }
