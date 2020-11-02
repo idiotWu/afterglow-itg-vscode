@@ -78,7 +78,7 @@
     "titleBar.inactiveBackground": "#212733",
     "editorSuggestWidget.background": "#212733",
     "editorSuggestWidget.border": "#181a1f",
-    "editorSuggestWidget.selectedBackground": "#1a1f29",
+    "editorSuggestWidget.selectedBackground": "#3e4451",
     "editorSuggestWidget.highlightForeground": "#00bcd4",
     "statusBar.debuggingForeground": "#ffffff",
     "terminal.ansiBlack": "#666666",
